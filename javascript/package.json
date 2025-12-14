@@ -1,0 +1,21 @@
+{
+  "name": "dsa-library",
+  "version": "0.1.0",
+  "description": "Data Structures and Algorithms Library in JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "data-structures",
+    "algorithms",
+    "dsa"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
+
